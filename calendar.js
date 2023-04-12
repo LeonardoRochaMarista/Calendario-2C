@@ -5,7 +5,3 @@ function colorirData(){
     let td      = calendar.getElementsByTagName('td')[parseInt(days)+5];
     td.style.backgroundColor = color;
 }
-
-// getElementsByTagName
-// Em qual elemento/tag os dias estão escritos?
-// Como mudar estilo css com Javascript 
